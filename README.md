@@ -42,7 +42,7 @@ git clone https://github.com/deepanshu-bisht-dev/C-codes.git
 cd C-codes
 ```
 
-Compile and run any file with GCC:
+Compile and run any file with gcc:
 
 ```bash
 gcc deep.c -o deep
