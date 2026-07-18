@@ -8,7 +8,7 @@ A set of C programming exercises and examples covering essential topics like inp
 
 This repo is a working log of C fundamentals — small, focused programs written while building a strong base in the language, before moving on to more advanced data structures and problem-solving.
 
-- 🎓 B.Tech CSE (AI/ML Specialization), Future University
+- 🎓 B.Tech CSE (AI/ML Specialization), Future University)
 - 🛠️ Focus: Core C concepts — operators, control flow, functions, arrays, strings
 - 📈 Goal: Build strong fundamentals through consistent, hands-on practice
 
